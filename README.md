@@ -14,3 +14,8 @@ This project was made to demonstrate a pixel display with a 2-D Location and a 3
 ::: Text File format for the (x, y, k) coordinate system :::  
 To normalize the coordinate system, divide the (x, y) axis by 20  
 <img src="./ReadMeImages/Coordinate.KValue.png" width="10%">  
+  
+.  
+  
+::: Required Programs :::  
+Processing (https://processing.org/)  
